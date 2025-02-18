@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lowcostcoachhireuk.github.io/top-coach-companies-in-london/sitemap.xml
